@@ -1,0 +1,16 @@
+# служебные файлы Windows и среды
+~$*
+Thumbs.db
+desktop.ini
+*.tmp
+
+# резервные копии баз и выгрузки
+*.bak
+*.fbk
+*.log
+*.fdb.bak
+
+# локальные настройки IDE/сред
+.vs/
+.idea/
+.vscode/
